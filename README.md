@@ -3,7 +3,7 @@
 <h3> Foi muito divertido poder recriar este foi que foi um jogo muito marcante na infância dos jovens nascidos nos anos 90.</h3>
 
 <p align="center">
-<img src="https://github.com/fonluc/snake-game.fonluc/blob/main/github/snake-game.png" alt="snake-game" border="0">
+<img src="https://github.com/fonluc/snake-game/blob/main/snake-game.png" alt="snake-game" border="0">
 </p>
 
 
